@@ -1,1 +1,5 @@
 credential.txt
+config/__pycache__
+db.sqlite3
+posts/__pycache__
+users/__pycache__

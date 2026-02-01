@@ -20,3 +20,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+# for complete functions of drf in diffrent types of views https://www.cdrf.co/
